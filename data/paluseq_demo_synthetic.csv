@@ -1,0 +1,964 @@
+report_date,drug,marker_group,gene,marker,province,n_mutant,n_tested,prevalence_pct,detected_nationally
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Phe446Ile,Equateur,0,303,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Phe446Ile,Haut Katanga,0,227,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Phe446Ile,Ituri,0,577,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Phe446Ile,Kasai Central,0,237,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Phe446Ile,Kinshasa,5,590,0.85,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Phe446Ile,Kongo Central,0,0,,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Phe446Ile,Nord Kivu,0,393,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Phe446Ile,Nord Ubangi,0,184,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Phe446Ile,Tshopo,0,657,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Asn458Tyr,Equateur,0,0,,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Asn458Tyr,Haut Katanga,0,611,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Asn458Tyr,Ituri,0,689,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Asn458Tyr,Kasai Central,0,335,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Asn458Tyr,Kinshasa,0,556,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Asn458Tyr,Kongo Central,0,675,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Asn458Tyr,Nord Kivu,0,275,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Asn458Tyr,Nord Ubangi,0,352,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Asn458Tyr,Tshopo,0,528,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Cys469Tyr,Equateur,0,358,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Cys469Tyr,Haut Katanga,0,0,,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Cys469Tyr,Ituri,0,487,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Cys469Tyr,Kasai Central,0,519,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Cys469Tyr,Kinshasa,0,816,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Cys469Tyr,Kongo Central,0,395,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Cys469Tyr,Nord Kivu,0,853,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Cys469Tyr,Nord Ubangi,0,737,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Cys469Tyr,Tshopo,0,600,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Met476Ile,Equateur,0,585,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Met476Ile,Haut Katanga,0,315,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Met476Ile,Ituri,0,364,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Met476Ile,Kasai Central,0,524,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Met476Ile,Kinshasa,0,410,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Met476Ile,Kongo Central,1,259,0.39,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Met476Ile,Nord Kivu,0,370,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Met476Ile,Nord Ubangi,0,161,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Met476Ile,Tshopo,0,184,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Tyr493His,Equateur,0,855,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Tyr493His,Haut Katanga,0,253,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Tyr493His,Ituri,0,536,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Tyr493His,Kasai Central,0,634,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Tyr493His,Kinshasa,3,825,0.36,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Tyr493His,Kongo Central,0,338,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Tyr493His,Nord Kivu,0,336,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Tyr493His,Nord Ubangi,0,408,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Tyr493His,Tshopo,0,426,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Gly533Ser,Equateur,0,0,,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Gly533Ser,Haut Katanga,0,834,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Gly533Ser,Ituri,0,642,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Gly533Ser,Kasai Central,0,537,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Gly533Ser,Kinshasa,0,428,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Gly533Ser,Kongo Central,0,345,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Gly533Ser,Nord Kivu,0,757,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Gly533Ser,Nord Ubangi,0,517,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Gly533Ser,Tshopo,0,892,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Arg539Thr,Equateur,0,697,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Arg539Thr,Haut Katanga,0,634,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Arg539Thr,Ituri,0,772,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Arg539Thr,Kasai Central,0,513,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Arg539Thr,Kinshasa,0,237,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Arg539Thr,Kongo Central,0,229,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Arg539Thr,Nord Kivu,0,160,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Arg539Thr,Nord Ubangi,0,845,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Arg539Thr,Tshopo,0,353,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Ile543Thr,Equateur,0,814,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Ile543Thr,Haut Katanga,0,341,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Ile543Thr,Ituri,0,511,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Ile543Thr,Kasai Central,0,277,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Ile543Thr,Kinshasa,0,726,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Ile543Thr,Kongo Central,0,176,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Ile543Thr,Nord Kivu,0,306,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Ile543Thr,Nord Ubangi,0,473,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Ile543Thr,Tshopo,0,638,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Pro553Leu,Equateur,0,683,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Pro553Leu,Haut Katanga,0,732,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Pro553Leu,Ituri,0,606,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Pro553Leu,Kasai Central,0,276,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Pro553Leu,Kinshasa,0,518,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Pro553Leu,Kongo Central,0,212,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Pro553Leu,Nord Kivu,0,859,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Pro553Leu,Nord Ubangi,0,288,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Pro553Leu,Tshopo,0,823,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Arg561His,Equateur,0,158,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Arg561His,Haut Katanga,0,860,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Arg561His,Ituri,0,833,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Arg561His,Kasai Central,0,478,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Arg561His,Kinshasa,5,617,0.81,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Arg561His,Kongo Central,0,361,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Arg561His,Nord Kivu,0,739,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Arg561His,Nord Ubangi,0,648,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Arg561His,Tshopo,0,714,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Pro574Leu,Equateur,0,476,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Pro574Leu,Haut Katanga,0,737,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Pro574Leu,Ituri,0,0,,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Pro574Leu,Kasai Central,0,461,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Pro574Leu,Kinshasa,0,804,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Pro574Leu,Kongo Central,0,848,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Pro574Leu,Nord Kivu,0,558,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Pro574Leu,Nord Ubangi,0,0,,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Pro574Leu,Tshopo,0,305,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Cys580Tyr,Equateur,0,202,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Cys580Tyr,Haut Katanga,0,534,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Cys580Tyr,Ituri,0,390,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Cys580Tyr,Kasai Central,0,250,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Cys580Tyr,Kinshasa,0,417,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Cys580Tyr,Kongo Central,0,788,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Cys580Tyr,Nord Kivu,0,206,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Cys580Tyr,Nord Ubangi,0,607,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Cys580Tyr,Tshopo,0,686,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Arg622Ile,Equateur,0,411,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Arg622Ile,Haut Katanga,0,344,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Arg622Ile,Ituri,0,0,,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Arg622Ile,Kasai Central,0,456,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Arg622Ile,Kinshasa,0,502,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Arg622Ile,Kongo Central,0,462,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Arg622Ile,Nord Kivu,0,290,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Arg622Ile,Nord Ubangi,0,0,,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Arg622Ile,Tshopo,0,269,0.0,False
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Ala675Val,Equateur,0,373,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Ala675Val,Haut Katanga,1,573,0.17,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Ala675Val,Ituri,0,854,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Ala675Val,Kasai Central,0,416,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Ala675Val,Kinshasa,0,386,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Ala675Val,Kongo Central,0,452,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Ala675Val,Nord Kivu,0,376,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Ala675Val,Nord Ubangi,0,362,0.0,True
+2026-09-30,Artemisinin,k13 - WHO validated,k13,k13-Ala675Val,Tshopo,0,493,0.0,True
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Pro441Leu,Equateur,0,894,0.0,False
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Pro441Leu,Haut Katanga,0,595,0.0,False
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Pro441Leu,Ituri,0,291,0.0,False
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Pro441Leu,Kasai Central,0,744,0.0,False
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Pro441Leu,Kinshasa,0,0,,False
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Pro441Leu,Kongo Central,0,673,0.0,False
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Pro441Leu,Nord Kivu,0,174,0.0,False
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Pro441Leu,Nord Ubangi,0,0,,False
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Pro441Leu,Tshopo,0,0,,False
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Cys469Phe,Equateur,0,558,0.0,False
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Cys469Phe,Haut Katanga,0,690,0.0,False
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Cys469Phe,Ituri,0,856,0.0,False
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Cys469Phe,Kasai Central,0,268,0.0,False
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Cys469Phe,Kinshasa,0,660,0.0,False
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Cys469Phe,Kongo Central,0,490,0.0,False
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Cys469Phe,Nord Kivu,0,225,0.0,False
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Cys469Phe,Nord Ubangi,0,525,0.0,False
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Cys469Phe,Tshopo,0,504,0.0,False
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Asn537Ile,Equateur,18,549,3.28,True
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Asn537Ile,Haut Katanga,0,289,0.0,True
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Asn537Ile,Ituri,0,0,,True
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Asn537Ile,Kasai Central,0,358,0.0,True
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Asn537Ile,Kinshasa,0,601,0.0,True
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Asn537Ile,Kongo Central,0,622,0.0,True
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Asn537Ile,Nord Kivu,0,622,0.0,True
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Asn537Ile,Nord Ubangi,0,359,0.0,True
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Asn537Ile,Tshopo,0,601,0.0,True
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Gly538Val,Equateur,0,287,0.0,False
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Gly538Val,Haut Katanga,0,356,0.0,False
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Gly538Val,Ituri,0,633,0.0,False
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Gly538Val,Kasai Central,0,524,0.0,False
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Gly538Val,Kinshasa,0,858,0.0,False
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Gly538Val,Kongo Central,0,569,0.0,False
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Gly538Val,Nord Kivu,0,559,0.0,False
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Gly538Val,Nord Ubangi,0,797,0.0,False
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Gly538Val,Tshopo,0,0,,False
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Val568Gly,Equateur,0,360,0.0,True
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Val568Gly,Haut Katanga,0,627,0.0,True
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Val568Gly,Ituri,0,835,0.0,True
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Val568Gly,Kasai Central,0,757,0.0,True
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Val568Gly,Kinshasa,0,464,0.0,True
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Val568Gly,Kongo Central,0,417,0.0,True
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Val568Gly,Nord Kivu,3,327,0.92,True
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Val568Gly,Nord Ubangi,0,376,0.0,True
+2026-09-30,Artemisinin,k13 - WHO candidate,k13,k13-Val568Gly,Tshopo,0,686,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Lys438Asn,Equateur,0,757,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Lys438Asn,Haut Katanga,0,232,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Lys438Asn,Ituri,0,537,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Lys438Asn,Kasai Central,4,264,1.52,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Lys438Asn,Kinshasa,0,226,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Lys438Asn,Kongo Central,0,202,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Lys438Asn,Nord Kivu,0,644,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Lys438Asn,Nord Ubangi,0,812,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Lys438Asn,Tshopo,0,273,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Gly449Ala,Equateur,0,871,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Gly449Ala,Haut Katanga,0,0,,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Gly449Ala,Ituri,0,889,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Gly449Ala,Kasai Central,0,438,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Gly449Ala,Kinshasa,0,746,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Gly449Ala,Kongo Central,5,898,0.56,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Gly449Ala,Nord Kivu,0,421,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Gly449Ala,Nord Ubangi,0,469,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Gly449Ala,Tshopo,0,363,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Phe495Leu,Equateur,0,755,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Phe495Leu,Haut Katanga,0,513,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Phe495Leu,Ituri,0,443,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Phe495Leu,Kasai Central,0,634,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Phe495Leu,Kinshasa,0,156,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Phe495Leu,Kongo Central,0,438,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Phe495Leu,Nord Kivu,0,209,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Phe495Leu,Nord Ubangi,0,715,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Phe495Leu,Tshopo,9,889,1.01,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Thr508Asn,Equateur,0,634,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Thr508Asn,Haut Katanga,0,441,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Thr508Asn,Ituri,0,499,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Thr508Asn,Kasai Central,0,794,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Thr508Asn,Kinshasa,0,882,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Thr508Asn,Kongo Central,0,663,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Thr508Asn,Nord Kivu,7,330,2.12,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Thr508Asn,Nord Ubangi,0,440,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Thr508Asn,Tshopo,0,893,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Tyr511His,Equateur,0,350,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Tyr511His,Haut Katanga,0,0,,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Tyr511His,Ituri,0,471,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Tyr511His,Kasai Central,0,895,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Tyr511His,Kinshasa,0,723,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Tyr511His,Kongo Central,0,279,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Tyr511His,Nord Kivu,0,332,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Tyr511His,Nord Ubangi,2,587,0.34,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Tyr511His,Tshopo,0,766,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Arg515Lys,Equateur,0,781,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Arg515Lys,Haut Katanga,0,0,,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Arg515Lys,Ituri,0,845,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Arg515Lys,Kasai Central,0,825,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Arg515Lys,Kinshasa,0,313,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Arg515Lys,Kongo Central,0,865,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Arg515Lys,Nord Kivu,0,263,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Arg515Lys,Nord Ubangi,0,659,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Arg515Lys,Tshopo,0,160,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Pro527His,Equateur,0,0,,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Pro527His,Haut Katanga,0,242,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Pro527His,Ituri,0,464,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Pro527His,Kasai Central,0,633,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Pro527His,Kinshasa,0,228,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Pro527His,Kongo Central,0,851,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Pro527His,Nord Kivu,0,777,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Pro527His,Nord Ubangi,0,445,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Pro527His,Tshopo,0,791,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Ser577Leu,Equateur,0,816,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Ser577Leu,Haut Katanga,0,352,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Ser577Leu,Ituri,0,209,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Ser577Leu,Kasai Central,0,0,,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Ser577Leu,Kinshasa,0,470,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Ser577Leu,Kongo Central,0,208,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Ser577Leu,Nord Kivu,0,0,,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Ser577Leu,Nord Ubangi,10,580,1.72,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Ser577Leu,Tshopo,2,163,1.23,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Met579Ile,Equateur,0,414,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Met579Ile,Haut Katanga,0,842,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Met579Ile,Ituri,0,475,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Met579Ile,Kasai Central,0,178,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Met579Ile,Kinshasa,0,786,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Met579Ile,Kongo Central,0,0,,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Met579Ile,Nord Kivu,0,0,,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Met579Ile,Nord Ubangi,0,284,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Met579Ile,Tshopo,0,152,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Ala582Val,Equateur,0,837,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Ala582Val,Haut Katanga,2,719,0.28,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Ala582Val,Ituri,0,894,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Ala582Val,Kasai Central,0,880,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Ala582Val,Kinshasa,0,884,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Ala582Val,Kongo Central,0,822,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Ala582Val,Nord Kivu,0,661,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Ala582Val,Nord Ubangi,0,708,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Ala582Val,Tshopo,0,529,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Asp584Val,Equateur,0,312,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Asp584Val,Haut Katanga,0,708,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Asp584Val,Ituri,0,717,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Asp584Val,Kasai Central,0,847,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Asp584Val,Kinshasa,0,649,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Asp584Val,Kongo Central,0,462,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Asp584Val,Nord Kivu,0,235,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Asp584Val,Nord Ubangi,0,486,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Asp584Val,Tshopo,0,612,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Asn585Lys,Equateur,0,470,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Asn585Lys,Haut Katanga,0,594,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Asn585Lys,Ituri,0,823,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Asn585Lys,Kasai Central,0,786,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Asn585Lys,Kinshasa,0,255,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Asn585Lys,Kongo Central,0,714,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Asn585Lys,Nord Kivu,0,705,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Asn585Lys,Nord Ubangi,0,683,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Asn585Lys,Tshopo,0,387,0.0,False
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Gln613Glu,Equateur,0,684,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Gln613Glu,Haut Katanga,0,581,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Gln613Glu,Ituri,0,518,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Gln613Glu,Kasai Central,0,459,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Gln613Glu,Kinshasa,0,165,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Gln613Glu,Kongo Central,0,320,0.0,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Gln613Glu,Nord Kivu,0,0,,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Gln613Glu,Nord Ubangi,10,379,2.64,True
+2026-09-30,Artemisinin,k13 - WHO potential,k13,k13-Gln613Glu,Tshopo,0,0,,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu433Asp,Equateur,0,410,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu433Asp,Haut Katanga,0,515,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu433Asp,Ituri,0,792,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu433Asp,Kasai Central,0,267,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu433Asp,Kinshasa,0,631,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu433Asp,Kongo Central,0,251,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu433Asp,Nord Kivu,3,568,0.53,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu433Asp,Nord Ubangi,0,872,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu433Asp,Tshopo,12,771,1.56,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly436Ser,Equateur,0,575,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly436Ser,Haut Katanga,0,691,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly436Ser,Ituri,0,419,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly436Ser,Kasai Central,0,346,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly436Ser,Kinshasa,0,520,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly436Ser,Kongo Central,0,334,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly436Ser,Nord Kivu,0,0,,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly436Ser,Nord Ubangi,0,502,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly436Ser,Tshopo,0,0,,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly436Val,Equateur,0,693,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly436Val,Haut Katanga,0,841,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly436Val,Ituri,0,169,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly436Val,Kasai Central,0,462,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly436Val,Kinshasa,0,494,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly436Val,Kongo Central,0,757,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly436Val,Nord Kivu,0,385,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly436Val,Nord Ubangi,0,238,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly436Val,Tshopo,0,500,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys438Glu,Equateur,0,630,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys438Glu,Haut Katanga,0,648,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys438Glu,Ituri,0,237,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys438Glu,Kasai Central,0,259,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys438Glu,Kinshasa,0,0,,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys438Glu,Kongo Central,0,0,,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys438Glu,Nord Kivu,0,557,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys438Glu,Nord Ubangi,0,753,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys438Glu,Tshopo,0,664,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Phe439Leu,Equateur,0,878,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Phe439Leu,Haut Katanga,0,257,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Phe439Leu,Ituri,0,284,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Phe439Leu,Kasai Central,0,819,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Phe439Leu,Kinshasa,0,660,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Phe439Leu,Kongo Central,0,776,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Phe439Leu,Nord Kivu,0,539,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Phe439Leu,Nord Ubangi,0,824,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Phe439Leu,Tshopo,0,657,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Pro441Ala,Equateur,0,675,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Pro441Ala,Haut Katanga,0,174,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Pro441Ala,Ituri,0,601,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Pro441Ala,Kasai Central,0,743,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Pro441Ala,Kinshasa,0,560,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Pro441Ala,Kongo Central,0,556,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Pro441Ala,Nord Kivu,0,399,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Pro441Ala,Nord Ubangi,0,652,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Pro441Ala,Tshopo,0,552,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ile448Thr,Equateur,0,458,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ile448Thr,Haut Katanga,0,706,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ile448Thr,Ituri,0,0,,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ile448Thr,Kasai Central,0,724,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ile448Thr,Kinshasa,0,704,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ile448Thr,Kongo Central,0,753,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ile448Thr,Nord Kivu,0,173,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ile448Thr,Nord Ubangi,0,408,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ile448Thr,Tshopo,0,484,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val454Ile,Equateur,0,593,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val454Ile,Haut Katanga,0,415,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val454Ile,Ituri,0,429,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val454Ile,Kasai Central,0,0,,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val454Ile,Kinshasa,0,684,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val454Ile,Kongo Central,0,723,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val454Ile,Nord Kivu,0,447,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val454Ile,Nord Ubangi,0,677,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val454Ile,Tshopo,0,437,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn458Asp,Equateur,0,532,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn458Asp,Haut Katanga,0,416,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn458Asp,Ituri,0,795,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn458Asp,Kasai Central,0,791,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn458Asp,Kinshasa,0,841,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn458Asp,Kongo Central,0,831,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn458Asp,Nord Kivu,0,488,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn458Asp,Nord Ubangi,0,681,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn458Asp,Tshopo,0,331,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser459Leu,Equateur,6,298,2.01,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser459Leu,Haut Katanga,0,291,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser459Leu,Ituri,0,495,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser459Leu,Kasai Central,0,387,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser459Leu,Kinshasa,0,367,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser459Leu,Kongo Central,0,302,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser459Leu,Nord Kivu,0,502,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser459Leu,Nord Ubangi,0,154,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser459Leu,Tshopo,0,829,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu461Lys,Equateur,0,0,,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu461Lys,Haut Katanga,0,709,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu461Lys,Ituri,0,0,,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu461Lys,Kasai Central,0,691,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu461Lys,Kinshasa,0,529,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu461Lys,Kongo Central,0,520,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu461Lys,Nord Kivu,0,223,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu461Lys,Nord Ubangi,0,340,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu461Lys,Tshopo,0,614,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu461Gly,Equateur,3,634,0.47,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu461Gly,Haut Katanga,18,746,2.41,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu461Gly,Ituri,4,515,0.78,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu461Gly,Kasai Central,22,478,4.6,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu461Gly,Kinshasa,9,488,1.84,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu461Gly,Kongo Central,10,691,1.45,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu461Gly,Nord Kivu,1,321,0.31,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu461Gly,Nord Ubangi,0,221,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu461Gly,Tshopo,0,0,,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp464Gly,Equateur,0,418,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp464Gly,Haut Katanga,0,577,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp464Gly,Ituri,14,765,1.83,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp464Gly,Kasai Central,0,489,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp464Gly,Kinshasa,0,250,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp464Gly,Kongo Central,0,544,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp464Gly,Nord Kivu,0,666,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp464Gly,Nord Ubangi,0,651,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp464Gly,Tshopo,0,531,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp464Tyr,Equateur,0,303,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp464Tyr,Haut Katanga,10,859,1.16,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp464Tyr,Ituri,0,380,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp464Tyr,Kasai Central,2,427,0.47,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp464Tyr,Kinshasa,0,703,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp464Tyr,Kongo Central,0,359,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp464Tyr,Nord Kivu,0,301,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp464Tyr,Nord Ubangi,0,344,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp464Tyr,Tshopo,5,287,1.74,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser477Thr,Equateur,0,813,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser477Thr,Haut Katanga,0,322,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser477Thr,Ituri,0,568,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser477Thr,Kasai Central,0,368,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser477Thr,Kinshasa,0,183,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser477Thr,Kongo Central,0,182,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser477Thr,Nord Kivu,0,652,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser477Thr,Nord Ubangi,0,751,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser477Thr,Tshopo,0,298,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys479Arg,Equateur,0,603,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys479Arg,Haut Katanga,0,549,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys479Arg,Ituri,0,654,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys479Arg,Kasai Central,0,858,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys479Arg,Kinshasa,0,590,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys479Arg,Kongo Central,0,235,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys479Arg,Nord Kivu,0,810,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys479Arg,Nord Ubangi,0,759,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys479Arg,Tshopo,0,863,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys479Glu,Equateur,0,0,,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys479Glu,Haut Katanga,0,310,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys479Glu,Ituri,0,631,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys479Glu,Kasai Central,0,375,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys479Glu,Kinshasa,0,433,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys479Glu,Kongo Central,0,513,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys479Glu,Nord Kivu,0,423,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys479Glu,Nord Ubangi,0,888,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys479Glu,Tshopo,0,208,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Tyr482Cys,Equateur,0,777,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Tyr482Cys,Haut Katanga,0,765,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Tyr482Cys,Ituri,0,248,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Tyr482Cys,Kasai Central,0,184,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Tyr482Cys,Kinshasa,4,228,1.75,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Tyr482Cys,Kongo Central,0,446,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Tyr482Cys,Nord Kivu,0,216,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Tyr482Cys,Nord Ubangi,0,329,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Tyr482Cys,Tshopo,0,516,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala486Thr,Equateur,0,872,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala486Thr,Haut Katanga,0,225,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala486Thr,Ituri,0,832,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala486Thr,Kasai Central,0,689,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala486Thr,Kinshasa,0,774,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala486Thr,Kongo Central,0,863,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala486Thr,Nord Kivu,0,840,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala486Thr,Nord Ubangi,0,420,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala486Thr,Tshopo,0,278,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu509Lys,Equateur,0,776,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu509Lys,Haut Katanga,0,890,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu509Lys,Ituri,0,772,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu509Lys,Kasai Central,0,243,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu509Lys,Kinshasa,0,669,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu509Lys,Kongo Central,0,857,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu509Lys,Nord Kivu,0,771,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu509Lys,Nord Ubangi,0,340,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu509Lys,Tshopo,0,360,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp516Asn,Equateur,0,325,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp516Asn,Haut Katanga,0,0,,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp516Asn,Ituri,0,0,,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp516Asn,Kasai Central,0,328,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp516Asn,Kinshasa,0,751,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp516Asn,Kongo Central,0,623,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp516Asn,Nord Kivu,0,486,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp516Asn,Nord Ubangi,0,427,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp516Asn,Tshopo,0,703,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val517Ala,Equateur,0,732,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val517Ala,Haut Katanga,0,417,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val517Ala,Ituri,0,814,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val517Ala,Kasai Central,0,649,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val517Ala,Kinshasa,0,588,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val517Ala,Kongo Central,0,297,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val517Ala,Nord Kivu,0,879,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val517Ala,Nord Ubangi,0,189,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val517Ala,Tshopo,0,804,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser522Cys,Equateur,0,370,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser522Cys,Haut Katanga,0,706,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser522Cys,Ituri,0,209,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser522Cys,Kasai Central,0,641,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser522Cys,Kinshasa,0,252,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser522Cys,Kongo Central,0,884,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser522Cys,Nord Kivu,0,465,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser522Cys,Nord Ubangi,0,857,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser522Cys,Tshopo,0,732,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn525Ser,Equateur,0,810,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn525Ser,Haut Katanga,0,301,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn525Ser,Ituri,0,854,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn525Ser,Kasai Central,0,832,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn525Ser,Kinshasa,0,333,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn525Ser,Kongo Central,0,594,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn525Ser,Nord Kivu,0,629,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn525Ser,Nord Ubangi,0,476,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn525Ser,Tshopo,0,222,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Arg529Sto,Equateur,0,175,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Arg529Sto,Haut Katanga,0,365,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Arg529Sto,Ituri,0,166,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Arg529Sto,Kasai Central,0,813,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Arg529Sto,Kinshasa,0,349,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Arg529Sto,Kongo Central,0,852,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Arg529Sto,Nord Kivu,0,493,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Arg529Sto,Nord Ubangi,0,874,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Arg529Sto,Tshopo,0,438,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Cys532Ser,Equateur,0,0,,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Cys532Ser,Haut Katanga,0,547,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Cys532Ser,Ituri,0,866,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Cys532Ser,Kasai Central,0,749,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Cys532Ser,Kinshasa,0,786,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Cys532Ser,Kongo Central,3,353,0.85,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Cys532Ser,Nord Kivu,0,0,,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Cys532Ser,Nord Ubangi,0,346,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Cys532Ser,Tshopo,0,310,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val534Ala,Equateur,0,197,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val534Ala,Haut Katanga,0,619,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val534Ala,Ituri,0,890,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val534Ala,Kasai Central,0,562,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val534Ala,Kinshasa,0,673,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val534Ala,Kongo Central,0,514,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val534Ala,Nord Kivu,0,319,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val534Ala,Nord Ubangi,0,813,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val534Ala,Tshopo,0,312,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Thr535Ala,Equateur,0,246,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Thr535Ala,Haut Katanga,0,564,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Thr535Ala,Ituri,0,723,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Thr535Ala,Kasai Central,0,156,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Thr535Ala,Kinshasa,8,801,1.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Thr535Ala,Kongo Central,0,651,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Thr535Ala,Nord Kivu,0,348,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Thr535Ala,Nord Ubangi,0,296,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Thr535Ala,Tshopo,0,764,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly538Asp,Equateur,0,509,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly538Asp,Haut Katanga,0,544,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly538Asp,Ituri,0,855,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly538Asp,Kasai Central,0,340,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly538Asp,Kinshasa,0,513,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly538Asp,Kongo Central,0,408,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly538Asp,Nord Kivu,0,792,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly538Asp,Nord Ubangi,0,407,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly538Asp,Tshopo,0,735,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Arg539Ile,Equateur,0,396,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Arg539Ile,Haut Katanga,0,885,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Arg539Ile,Ituri,0,405,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Arg539Ile,Kasai Central,0,389,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Arg539Ile,Kinshasa,0,0,,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Arg539Ile,Kongo Central,0,847,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Arg539Ile,Nord Kivu,0,676,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Arg539Ile,Nord Ubangi,0,662,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Arg539Ile,Tshopo,0,342,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly544Glu,Equateur,0,311,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly544Glu,Haut Katanga,0,260,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly544Glu,Ituri,0,267,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly544Glu,Kasai Central,0,181,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly544Glu,Kinshasa,0,600,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly544Glu,Kongo Central,0,517,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly544Glu,Nord Kivu,0,520,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly544Glu,Nord Ubangi,0,375,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly544Glu,Tshopo,0,191,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly545Glu,Equateur,8,369,2.17,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly545Glu,Haut Katanga,0,0,,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly545Glu,Ituri,12,859,1.4,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly545Glu,Kasai Central,6,889,0.67,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly545Glu,Kinshasa,5,222,2.25,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly545Glu,Kongo Central,18,717,2.51,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly545Glu,Nord Kivu,7,222,3.15,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly545Glu,Nord Ubangi,1,381,0.26,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Gly545Glu,Tshopo,1,686,0.15,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp547Tyr,Equateur,8,445,1.8,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp547Tyr,Haut Katanga,2,157,1.27,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp547Tyr,Ituri,0,0,,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp547Tyr,Kasai Central,0,727,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp547Tyr,Kinshasa,0,304,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp547Tyr,Kongo Central,0,563,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp547Tyr,Nord Kivu,0,365,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp547Tyr,Nord Ubangi,0,811,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp547Tyr,Tshopo,0,614,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser549Thr,Equateur,0,492,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser549Thr,Haut Katanga,0,256,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser549Thr,Ituri,0,506,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser549Thr,Kasai Central,0,346,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser549Thr,Kinshasa,7,884,0.79,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser549Thr,Kongo Central,0,542,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser549Thr,Nord Kivu,0,515,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser549Thr,Nord Ubangi,0,564,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser549Thr,Tshopo,0,551,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ile552Met,Equateur,0,425,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ile552Met,Haut Katanga,0,636,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ile552Met,Ituri,0,756,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ile552Met,Kasai Central,0,753,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ile552Met,Kinshasa,0,181,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ile552Met,Kongo Central,0,158,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ile552Met,Nord Kivu,0,594,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ile552Met,Nord Ubangi,0,549,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ile552Met,Tshopo,0,222,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn554Ser,Equateur,0,811,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn554Ser,Haut Katanga,0,297,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn554Ser,Ituri,0,365,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn554Ser,Kasai Central,0,285,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn554Ser,Kinshasa,0,390,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn554Ser,Kongo Central,0,845,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn554Ser,Nord Kivu,0,588,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn554Ser,Nord Ubangi,0,831,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn554Ser,Tshopo,0,758,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val555Ala,Equateur,0,163,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val555Ala,Haut Katanga,0,709,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val555Ala,Ituri,0,0,,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val555Ala,Kasai Central,0,622,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val555Ala,Kinshasa,0,449,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val555Ala,Kongo Central,0,464,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val555Ala,Nord Kivu,0,190,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val555Ala,Nord Ubangi,0,574,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val555Ala,Tshopo,0,319,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala557Ser,Equateur,0,249,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala557Ser,Haut Katanga,0,0,,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala557Ser,Ituri,3,583,0.51,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala557Ser,Kasai Central,0,257,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala557Ser,Kinshasa,0,239,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala557Ser,Kongo Central,0,803,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala557Ser,Nord Kivu,0,655,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala557Ser,Nord Ubangi,0,521,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala557Ser,Tshopo,0,839,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Arg561Cys,Equateur,0,198,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Arg561Cys,Haut Katanga,0,316,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Arg561Cys,Ituri,0,168,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Arg561Cys,Kasai Central,0,621,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Arg561Cys,Kinshasa,0,377,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Arg561Cys,Kongo Central,0,679,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Arg561Cys,Nord Kivu,0,0,,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Arg561Cys,Nord Ubangi,11,868,1.27,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Arg561Cys,Tshopo,0,608,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys563Glu,Equateur,0,657,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys563Glu,Haut Katanga,0,0,,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys563Glu,Ituri,0,161,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys563Glu,Kasai Central,0,214,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys563Glu,Kinshasa,0,831,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys563Glu,Kongo Central,0,492,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys563Glu,Nord Kivu,0,422,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys563Glu,Nord Ubangi,0,337,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Lys563Glu,Tshopo,0,590,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala564Thr,Equateur,0,174,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala564Thr,Haut Katanga,0,189,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala564Thr,Ituri,0,200,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala564Thr,Kasai Central,0,608,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala564Thr,Kinshasa,0,210,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala564Thr,Kongo Central,0,401,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala564Thr,Nord Kivu,0,0,,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala564Thr,Nord Ubangi,0,509,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala564Thr,Tshopo,0,266,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala569Ser,Equateur,0,459,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala569Ser,Haut Katanga,0,471,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala569Ser,Ituri,0,852,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala569Ser,Kasai Central,11,751,1.46,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala569Ser,Kinshasa,0,0,,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala569Ser,Kongo Central,0,0,,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala569Ser,Nord Kivu,0,452,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala569Ser,Nord Ubangi,0,405,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala569Ser,Tshopo,0,439,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala569Thr,Equateur,0,780,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala569Thr,Haut Katanga,0,328,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala569Thr,Ituri,0,211,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala569Thr,Kasai Central,0,598,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala569Thr,Kinshasa,0,689,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala569Thr,Kongo Central,0,218,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala569Thr,Nord Kivu,0,538,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala569Thr,Nord Ubangi,0,0,,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala569Thr,Tshopo,0,866,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala578Ser,Equateur,6,785,0.76,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala578Ser,Haut Katanga,4,391,1.02,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala578Ser,Ituri,7,841,0.83,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala578Ser,Kasai Central,19,574,3.31,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala578Ser,Kinshasa,6,691,0.87,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala578Ser,Kongo Central,14,885,1.58,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala578Ser,Nord Kivu,5,604,0.83,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala578Ser,Nord Ubangi,0,161,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ala578Ser,Tshopo,3,339,0.88,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp584Gly,Equateur,0,778,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp584Gly,Haut Katanga,0,562,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp584Gly,Ituri,0,0,,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp584Gly,Kasai Central,0,565,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp584Gly,Kinshasa,0,634,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp584Gly,Kongo Central,0,333,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp584Gly,Nord Kivu,0,0,,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp584Gly,Nord Ubangi,0,460,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asp584Gly,Tshopo,0,680,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Thr593Ala,Equateur,0,199,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Thr593Ala,Haut Katanga,0,502,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Thr593Ala,Ituri,0,378,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Thr593Ala,Kasai Central,1,639,0.16,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Thr593Ala,Kinshasa,0,519,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Thr593Ala,Kongo Central,0,814,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Thr593Ala,Nord Kivu,0,158,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Thr593Ala,Nord Ubangi,2,453,0.44,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Thr593Ala,Tshopo,0,501,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu596Gly,Equateur,0,316,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu596Gly,Haut Katanga,0,415,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu596Gly,Ituri,0,399,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu596Gly,Kasai Central,0,655,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu596Gly,Kinshasa,0,680,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu596Gly,Kongo Central,0,895,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu596Gly,Nord Kivu,0,729,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu596Gly,Nord Ubangi,0,885,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu596Gly,Tshopo,0,375,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Leu598Sto,Equateur,0,474,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Leu598Sto,Haut Katanga,0,205,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Leu598Sto,Ituri,0,710,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Leu598Sto,Kasai Central,0,461,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Leu598Sto,Kinshasa,0,225,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Leu598Sto,Kongo Central,0,587,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Leu598Sto,Nord Kivu,0,814,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Leu598Sto,Nord Ubangi,0,0,,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Leu598Sto,Tshopo,0,798,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val637Ile,Equateur,0,771,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val637Ile,Haut Katanga,0,460,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val637Ile,Ituri,0,825,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val637Ile,Kasai Central,0,0,,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val637Ile,Kinshasa,7,304,2.3,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val637Ile,Kongo Central,0,637,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val637Ile,Nord Kivu,0,238,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val637Ile,Nord Ubangi,14,805,1.74,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val637Ile,Tshopo,0,675,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn664Ser,Equateur,0,638,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn664Ser,Haut Katanga,0,800,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn664Ser,Ituri,0,528,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn664Ser,Kasai Central,0,185,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn664Ser,Kinshasa,0,800,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn664Ser,Kongo Central,0,459,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn664Ser,Nord Kivu,0,434,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn664Ser,Nord Ubangi,0,529,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Asn664Ser,Tshopo,0,889,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val666Leu,Equateur,0,396,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val666Leu,Haut Katanga,0,288,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val666Leu,Ituri,0,383,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val666Leu,Kasai Central,0,346,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val666Leu,Kinshasa,0,445,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val666Leu,Kongo Central,0,679,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val666Leu,Nord Kivu,0,528,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val666Leu,Nord Ubangi,0,238,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val666Leu,Tshopo,0,809,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu691Asp,Equateur,0,751,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu691Asp,Haut Katanga,0,790,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu691Asp,Ituri,1,333,0.3,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu691Asp,Kasai Central,0,493,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu691Asp,Kinshasa,0,471,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu691Asp,Kongo Central,0,718,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu691Asp,Nord Kivu,0,431,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu691Asp,Nord Ubangi,0,713,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Glu691Asp,Tshopo,0,0,,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val692Ala,Equateur,18,861,2.09,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val692Ala,Haut Katanga,9,681,1.32,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val692Ala,Ituri,2,479,0.42,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val692Ala,Kasai Central,9,779,1.16,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val692Ala,Kinshasa,1,258,0.39,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val692Ala,Kongo Central,4,272,1.47,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val692Ala,Nord Kivu,1,185,0.54,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val692Ala,Nord Ubangi,11,419,2.63,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Val692Ala,Tshopo,7,644,1.09,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser695Thr,Equateur,0,417,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser695Thr,Haut Katanga,0,442,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser695Thr,Ituri,0,417,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser695Thr,Kasai Central,0,178,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser695Thr,Kinshasa,0,428,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser695Thr,Kongo Central,0,407,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser695Thr,Nord Kivu,0,460,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser695Thr,Nord Ubangi,0,424,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Ser695Thr,Tshopo,0,843,0.0,False
+2026-09-30,Artemisinin,k13 - other,k13,k13-Phe698Leu,Equateur,0,640,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Phe698Leu,Haut Katanga,0,895,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Phe698Leu,Ituri,0,849,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Phe698Leu,Kasai Central,0,876,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Phe698Leu,Kinshasa,0,321,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Phe698Leu,Kongo Central,0,632,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Phe698Leu,Nord Kivu,0,280,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Phe698Leu,Nord Ubangi,0,691,0.0,True
+2026-09-30,Artemisinin,k13 - other,k13,k13-Phe698Leu,Tshopo,7,403,1.74,True
+2026-09-30,Lumefantrine,Lumefantrine,mdr1,mdr1-Asn86,Equateur,506,515,98.25,True
+2026-09-30,Lumefantrine,Lumefantrine,mdr1,mdr1-Asn86,Haut Katanga,827,841,98.34,True
+2026-09-30,Lumefantrine,Lumefantrine,mdr1,mdr1-Asn86,Ituri,560,578,96.89,True
+2026-09-30,Lumefantrine,Lumefantrine,mdr1,mdr1-Asn86,Kasai Central,292,297,98.32,True
+2026-09-30,Lumefantrine,Lumefantrine,mdr1,mdr1-Asn86,Kinshasa,753,765,98.43,True
+2026-09-30,Lumefantrine,Lumefantrine,mdr1,mdr1-Asn86,Kongo Central,364,379,96.04,True
+2026-09-30,Lumefantrine,Lumefantrine,mdr1,mdr1-Asn86,Nord Kivu,739,741,99.73,True
+2026-09-30,Lumefantrine,Lumefantrine,mdr1,mdr1-Asn86,Nord Ubangi,713,718,99.3,True
+2026-09-30,Lumefantrine,Lumefantrine,mdr1,mdr1-Asn86,Tshopo,219,221,99.1,True
+2026-09-30,Lumefantrine,Lumefantrine,mdr1,mdr1-Tyr184Phe,Equateur,221,312,70.83,True
+2026-09-30,Lumefantrine,Lumefantrine,mdr1,mdr1-Tyr184Phe,Haut Katanga,166,421,39.43,True
+2026-09-30,Lumefantrine,Lumefantrine,mdr1,mdr1-Tyr184Phe,Ituri,419,643,65.16,True
+2026-09-30,Lumefantrine,Lumefantrine,mdr1,mdr1-Tyr184Phe,Kasai Central,116,291,39.86,True
+2026-09-30,Lumefantrine,Lumefantrine,mdr1,mdr1-Tyr184Phe,Kinshasa,243,355,68.45,True
+2026-09-30,Lumefantrine,Lumefantrine,mdr1,mdr1-Tyr184Phe,Kongo Central,0,0,,True
+2026-09-30,Lumefantrine,Lumefantrine,mdr1,mdr1-Tyr184Phe,Nord Kivu,498,603,82.59,True
+2026-09-30,Lumefantrine,Lumefantrine,mdr1,mdr1-Tyr184Phe,Nord Ubangi,321,560,57.32,True
+2026-09-30,Lumefantrine,Lumefantrine,mdr1,mdr1-Tyr184Phe,Tshopo,82,278,29.5,True
+2026-09-30,Lumefantrine,Lumefantrine,mdr1,mdr1-Asp1246,Equateur,0,0,,True
+2026-09-30,Lumefantrine,Lumefantrine,mdr1,mdr1-Asp1246,Haut Katanga,643,670,95.97,True
+2026-09-30,Lumefantrine,Lumefantrine,mdr1,mdr1-Asp1246,Ituri,539,542,99.45,True
+2026-09-30,Lumefantrine,Lumefantrine,mdr1,mdr1-Asp1246,Kasai Central,439,494,88.87,True
+2026-09-30,Lumefantrine,Lumefantrine,mdr1,mdr1-Asp1246,Kinshasa,278,291,95.53,True
+2026-09-30,Lumefantrine,Lumefantrine,mdr1,mdr1-Asp1246,Kongo Central,342,345,99.13,True
+2026-09-30,Lumefantrine,Lumefantrine,mdr1,mdr1-Asp1246,Nord Kivu,865,875,98.86,True
+2026-09-30,Lumefantrine,Lumefantrine,mdr1,mdr1-Asp1246,Nord Ubangi,700,714,98.04,True
+2026-09-30,Lumefantrine,Lumefantrine,mdr1,mdr1-Asp1246,Tshopo,620,628,98.73,True
+2026-09-30,Chloroquine,Chloroquine,crt,CVIET,Equateur,248,854,29.04,True
+2026-09-30,Chloroquine,Chloroquine,crt,CVIET,Haut Katanga,115,634,18.14,True
+2026-09-30,Chloroquine,Chloroquine,crt,CVIET,Ituri,67,420,15.95,True
+2026-09-30,Chloroquine,Chloroquine,crt,CVIET,Kasai Central,71,396,17.93,True
+2026-09-30,Chloroquine,Chloroquine,crt,CVIET,Kinshasa,83,280,29.64,True
+2026-09-30,Chloroquine,Chloroquine,crt,CVIET,Kongo Central,158,444,35.59,True
+2026-09-30,Chloroquine,Chloroquine,crt,CVIET,Nord Kivu,17,187,9.09,True
+2026-09-30,Chloroquine,Chloroquine,crt,CVIET,Nord Ubangi,111,291,38.14,True
+2026-09-30,Chloroquine,Chloroquine,crt,CVIET,Tshopo,53,826,6.42,True
+2026-09-30,Chloroquine,Chloroquine,crt,crt-Lys76Thr,Equateur,19,228,8.33,True
+2026-09-30,Chloroquine,Chloroquine,crt,crt-Lys76Thr,Haut Katanga,74,766,9.66,True
+2026-09-30,Chloroquine,Chloroquine,crt,crt-Lys76Thr,Ituri,0,0,,True
+2026-09-30,Chloroquine,Chloroquine,crt,crt-Lys76Thr,Kasai Central,117,891,13.13,True
+2026-09-30,Chloroquine,Chloroquine,crt,crt-Lys76Thr,Kinshasa,64,885,7.23,True
+2026-09-30,Chloroquine,Chloroquine,crt,crt-Lys76Thr,Kongo Central,147,506,29.05,True
+2026-09-30,Chloroquine,Chloroquine,crt,crt-Lys76Thr,Nord Kivu,27,418,6.46,True
+2026-09-30,Chloroquine,Chloroquine,crt,crt-Lys76Thr,Nord Ubangi,159,751,21.17,True
+2026-09-30,Chloroquine,Chloroquine,crt,crt-Lys76Thr,Tshopo,75,638,11.76,True
+2026-09-30,Amodiaquine,Amodiaquine,mdr1,mdr1-Asn86Tyr,Equateur,77,843,9.13,True
+2026-09-30,Amodiaquine,Amodiaquine,mdr1,mdr1-Asn86Tyr,Haut Katanga,20,596,3.36,True
+2026-09-30,Amodiaquine,Amodiaquine,mdr1,mdr1-Asn86Tyr,Ituri,28,231,12.12,True
+2026-09-30,Amodiaquine,Amodiaquine,mdr1,mdr1-Asn86Tyr,Kasai Central,26,698,3.72,True
+2026-09-30,Amodiaquine,Amodiaquine,mdr1,mdr1-Asn86Tyr,Kinshasa,5,405,1.23,True
+2026-09-30,Amodiaquine,Amodiaquine,mdr1,mdr1-Asn86Tyr,Kongo Central,28,583,4.8,True
+2026-09-30,Amodiaquine,Amodiaquine,mdr1,mdr1-Asn86Tyr,Nord Kivu,23,885,2.6,True
+2026-09-30,Amodiaquine,Amodiaquine,mdr1,mdr1-Asn86Tyr,Nord Ubangi,24,605,3.97,True
+2026-09-30,Amodiaquine,Amodiaquine,mdr1,mdr1-Asn86Tyr,Tshopo,8,336,2.38,True
+2026-09-30,Amodiaquine,Amodiaquine,mdr1,mdr1-Tyr184,Equateur,586,802,73.07,True
+2026-09-30,Amodiaquine,Amodiaquine,mdr1,mdr1-Tyr184,Haut Katanga,0,0,,True
+2026-09-30,Amodiaquine,Amodiaquine,mdr1,mdr1-Tyr184,Ituri,509,757,67.24,True
+2026-09-30,Amodiaquine,Amodiaquine,mdr1,mdr1-Tyr184,Kasai Central,620,755,82.12,True
+2026-09-30,Amodiaquine,Amodiaquine,mdr1,mdr1-Tyr184,Kinshasa,592,888,66.67,True
+2026-09-30,Amodiaquine,Amodiaquine,mdr1,mdr1-Tyr184,Kongo Central,412,528,78.03,True
+2026-09-30,Amodiaquine,Amodiaquine,mdr1,mdr1-Tyr184,Nord Kivu,0,0,,True
+2026-09-30,Amodiaquine,Amodiaquine,mdr1,mdr1-Tyr184,Nord Ubangi,380,543,69.98,True
+2026-09-30,Amodiaquine,Amodiaquine,mdr1,mdr1-Tyr184,Tshopo,0,0,,True
+2026-09-30,Amodiaquine,Amodiaquine,mdr1,mdr1-Asp1246Tyr,Equateur,161,852,18.9,True
+2026-09-30,Amodiaquine,Amodiaquine,mdr1,mdr1-Asp1246Tyr,Haut Katanga,6,335,1.79,True
+2026-09-30,Amodiaquine,Amodiaquine,mdr1,mdr1-Asp1246Tyr,Ituri,44,727,6.05,True
+2026-09-30,Amodiaquine,Amodiaquine,mdr1,mdr1-Asp1246Tyr,Kasai Central,8,354,2.26,True
+2026-09-30,Amodiaquine,Amodiaquine,mdr1,mdr1-Asp1246Tyr,Kinshasa,10,438,2.28,True
+2026-09-30,Amodiaquine,Amodiaquine,mdr1,mdr1-Asp1246Tyr,Kongo Central,8,523,1.53,True
+2026-09-30,Amodiaquine,Amodiaquine,mdr1,mdr1-Asp1246Tyr,Nord Kivu,4,465,0.86,True
+2026-09-30,Amodiaquine,Amodiaquine,mdr1,mdr1-Asp1246Tyr,Nord Ubangi,8,251,3.19,True
+2026-09-30,Amodiaquine,Amodiaquine,mdr1,mdr1-Asp1246Tyr,Tshopo,26,532,4.89,True
+2026-09-30,Amodiaquine,Amodiaquine,crt,SVMNT,Equateur,0,205,0.0,True
+2026-09-30,Amodiaquine,Amodiaquine,crt,SVMNT,Haut Katanga,0,173,0.0,True
+2026-09-30,Amodiaquine,Amodiaquine,crt,SVMNT,Ituri,14,591,2.37,True
+2026-09-30,Amodiaquine,Amodiaquine,crt,SVMNT,Kasai Central,0,870,0.0,True
+2026-09-30,Amodiaquine,Amodiaquine,crt,SVMNT,Kinshasa,0,0,,True
+2026-09-30,Amodiaquine,Amodiaquine,crt,SVMNT,Kongo Central,0,488,0.0,True
+2026-09-30,Amodiaquine,Amodiaquine,crt,SVMNT,Nord Kivu,0,306,0.0,True
+2026-09-30,Amodiaquine,Amodiaquine,crt,SVMNT,Nord Ubangi,0,569,0.0,True
+2026-09-30,Amodiaquine,Amodiaquine,crt,SVMNT,Tshopo,0,157,0.0,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Asn51Ile,Equateur,186,187,99.47,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Asn51Ile,Haut Katanga,240,244,98.36,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Asn51Ile,Ituri,186,187,99.47,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Asn51Ile,Kasai Central,397,403,98.51,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Asn51Ile,Kinshasa,653,655,99.69,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Asn51Ile,Kongo Central,640,658,97.26,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Asn51Ile,Nord Kivu,303,306,99.02,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Asn51Ile,Nord Ubangi,329,331,99.4,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Asn51Ile,Tshopo,266,267,99.63,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Cys59Arg,Equateur,443,450,98.44,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Cys59Arg,Haut Katanga,758,776,97.68,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Cys59Arg,Ituri,451,459,98.26,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Cys59Arg,Kasai Central,599,610,98.2,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Cys59Arg,Kinshasa,697,740,94.19,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Cys59Arg,Kongo Central,759,846,89.72,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Cys59Arg,Nord Kivu,871,891,97.76,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Cys59Arg,Nord Ubangi,241,242,99.59,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Cys59Arg,Tshopo,310,339,91.45,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Ser108Asn,Equateur,866,887,97.63,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Ser108Asn,Haut Katanga,584,586,99.66,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Ser108Asn,Ituri,274,283,96.82,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Ser108Asn,Kasai Central,773,783,98.72,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Ser108Asn,Kinshasa,698,704,99.15,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Ser108Asn,Kongo Central,184,188,97.87,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Ser108Asn,Nord Kivu,271,275,98.55,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Ser108Asn,Nord Ubangi,0,0,,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Ser108Asn,Tshopo,326,338,96.45,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Ile164Leu,Equateur,36,768,4.69,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Ile164Leu,Haut Katanga,33,446,7.4,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Ile164Leu,Ituri,14,449,3.12,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Ile164Leu,Kasai Central,73,775,9.42,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Ile164Leu,Kinshasa,6,207,2.9,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Ile164Leu,Kongo Central,8,227,3.52,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Ile164Leu,Nord Kivu,73,894,8.17,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Ile164Leu,Nord Ubangi,64,649,9.86,True
+2026-09-30,Pyrimethamine (SP),Pyrimethamine,dhfr-ts,dhfr-ts-Ile164Leu,Tshopo,19,235,8.09,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ser436Ala,Equateur,150,723,20.75,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ser436Ala,Haut Katanga,69,484,14.26,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ser436Ala,Ituri,64,318,20.13,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ser436Ala,Kasai Central,67,519,12.91,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ser436Ala,Kinshasa,8,216,3.7,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ser436Ala,Kongo Central,0,0,,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ser436Ala,Nord Kivu,0,0,,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ser436Ala,Nord Ubangi,244,857,28.47,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ser436Ala,Tshopo,36,635,5.67,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ser436Phe,Equateur,0,310,0.0,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ser436Phe,Haut Katanga,0,631,0.0,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ser436Phe,Ituri,0,782,0.0,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ser436Phe,Kasai Central,0,226,0.0,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ser436Phe,Kinshasa,3,413,0.73,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ser436Phe,Kongo Central,0,320,0.0,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ser436Phe,Nord Kivu,0,304,0.0,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ser436Phe,Nord Ubangi,0,696,0.0,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ser436Phe,Tshopo,0,396,0.0,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Gly437,Equateur,690,897,76.92,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Gly437,Haut Katanga,356,385,92.47,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Gly437,Ituri,847,884,95.81,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Gly437,Kasai Central,484,504,96.03,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Gly437,Kinshasa,271,301,90.03,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Gly437,Kongo Central,765,818,93.52,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Gly437,Nord Kivu,215,255,84.31,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Gly437,Nord Ubangi,570,608,93.75,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Gly437,Tshopo,644,729,88.34,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Lys540Glu,Equateur,116,150,77.33,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Lys540Glu,Haut Katanga,487,670,72.69,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Lys540Glu,Ituri,360,591,60.91,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Lys540Glu,Kasai Central,182,674,27.0,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Lys540Glu,Kinshasa,87,312,27.88,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Lys540Glu,Kongo Central,211,487,43.33,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Lys540Glu,Nord Kivu,167,517,32.3,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Lys540Glu,Nord Ubangi,392,691,56.73,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Lys540Glu,Tshopo,568,673,84.4,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ala581Gly,Equateur,78,162,48.15,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ala581Gly,Haut Katanga,0,0,,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ala581Gly,Ituri,113,676,16.72,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ala581Gly,Kasai Central,46,228,20.18,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ala581Gly,Kinshasa,172,403,42.68,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ala581Gly,Kongo Central,51,374,13.64,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ala581Gly,Nord Kivu,38,353,10.76,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ala581Gly,Nord Ubangi,195,699,27.9,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ala581Gly,Tshopo,130,711,18.28,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ala613Ser,Equateur,51,814,6.27,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ala613Ser,Haut Katanga,6,681,0.88,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ala613Ser,Ituri,20,788,2.54,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ala613Ser,Kasai Central,21,556,3.78,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ala613Ser,Kinshasa,46,513,8.97,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ala613Ser,Kongo Central,32,433,7.39,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ala613Ser,Nord Kivu,46,697,6.6,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ala613Ser,Nord Ubangi,23,217,10.6,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ala613Ser,Tshopo,29,813,3.57,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ala613Thr,Equateur,3,378,0.79,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ala613Thr,Haut Katanga,0,431,0.0,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ala613Thr,Ituri,0,422,0.0,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ala613Thr,Kasai Central,0,404,0.0,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ala613Thr,Kinshasa,0,640,0.0,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ala613Thr,Kongo Central,3,197,1.52,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ala613Thr,Nord Kivu,0,251,0.0,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ala613Thr,Nord Ubangi,0,0,,True
+2026-09-30,Sulfadoxine (SP),Sulfadoxine,dhps,dhps-Ala613Thr,Tshopo,0,864,0.0,True
